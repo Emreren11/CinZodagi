@@ -1,2 +1,2 @@
 # CinZodagi
-Aya göre çin zodyağını bulan program (www.patika.dev)
+Aya göre çin zodyağı formülü ile hangi hayvan olduğunu bulan program
